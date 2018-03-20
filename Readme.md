@@ -36,6 +36,3 @@ License
 
 MIT
 
-
-**Free Software, Nice!**
-
