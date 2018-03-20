@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "productName": "Apple",
+      "productPrice": 10
+    },
+    {
+      "productName": "Bananna",
+      "productPrice": 20
+    },
+    {
+      "productName": "Cherry",
+      "productPrice": 30
+    },
+    {
+      "productName": "Dragon Fruit",
+      "productPrice": 50
+    },
+    {
+      "productName": "Eggplant",
+      "productPrice": 20
+    },
+    {
+      "productName": "Grapes",
+      "productPrice": 30
+    },
+    {
+      "productName": "Fig",
+      "productPrice": 10
+    },
+    {
+      "productName": "Green Apple",
+      "productPrice": 40
+    },
+    {
+      "productName": "Jackfruit",
+      "productPrice": 15
+    },
+    {
+      "productName": "Kiwi",
+      "productPrice": 45
+    }
+  ]
+}
